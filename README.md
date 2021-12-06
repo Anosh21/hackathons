@@ -1,4 +1,4 @@
-![cover pic](static/hackathon-how-to.png)
+![cover pic] (static/hackathon-how-to.png)
 
 ## Table of Contents
 * [Why does Twilio sponsor hackathons](README.md#why-does-twilio-sponsor-hackathons)
@@ -199,7 +199,7 @@ for num in client.messages.list(to='YOUR-TWILIO-NUMBER'):
 
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/766/426/datas/gallery.jpg" alt="health hunt ar pic" height="450"/>
 
-## Tips 
+ ## Tips 
 We've been to a lot of hackathons, both as hackers and sponsors. What advice do we have for you as hackers?
 - **Have fun!** Hackathons can be intense and a lot to handle. Don't forget to build something you want to build.
 - **Take risks!** Learn something new. Try building something in a new language. You're surrounded by passionate people who are giving up their weekends to build something or help you. Take advantage of them! Ask questions about what classes they're taking if they're a fellow hacker, or talk to a mentor/sponsor about their jobs and their backgrounds.
